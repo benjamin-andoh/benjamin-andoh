@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am Benjamin from Ghana, and i do cloud devops and software developemnt, i really enjoy learning 
+labnguages and framekworks like Python, JavaScript, Php, Django, Laravel and Vue.js.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamin-andoh)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 <!--
 **benjamin-andoh/benjamin-andoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
