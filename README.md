@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Benjamin
+#### Cloud Devops and Software Engineer
+![Cloud Devops and Software Engineer](https://media.licdn.com/dms/image/D4E16AQHtVOLUhgrv9w/profile-displaybackgroundimage-shrink_350_1400/0/1681748468529?e=1689811200&v=beta&t=11ZAenoYMtVMux1vbbj4E8_cGS2thTs3A0tfq4qdGzw)
 
-I am Benjamin from Ghana, and i do cloud devops and software developemnt, i really enjoy learning 
-labnguages and framekworks like Python, JavaScript, Php, Django, Laravel and Vue.js.
+ I do AWS Cloud DevOps and software engineering, I really enjoy learning languages and frameworks like Python, JavaScript, Php, Django, Laravel, and Vue.js.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamin-andoh)](https://github.com/anuraghazra/github-readme-stats)
+Skills: PYTHON / DJANGO / JAVASCRIPT / VUE.JS / PHP / LARAVEL / SCRUM / PROJECT MANAGEMENT
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
