@@ -10,4 +10,4 @@ Skills: PYTHON / DJANGO / JAVASCRIPT / VUE.JS / PHP / LARAVEL / SCRUM / PROJECT 
 - 💬 Ask me about Python, TypeScript and Java 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/benjamin-andoh/)>]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'/(https://www.linkedin.com/in/benjamin-andoh/)>]
