@@ -9,6 +9,5 @@ Skills: PYTHON / DJANGO / JAVASCRIPT / VUE.JS / PHP / LARAVEL / SCRUM / PROJECT 
 - 🌱 I’m currently learning Kubernetes 
 - 💬 Ask me about Python, TypeScript and Java 
 
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"/>](https://www.linkedin.com/in/benjamin-andoh/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" style="height:24px; width:24px; vertical-align:middle;"/>](https://www.linkedin.com/in/benjamin-andoh/)
 
